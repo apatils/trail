@@ -1,3 +1,3 @@
-import sqlite3
+import pandas
 
-print(help(sqlite3))
+print(help(pandas))
