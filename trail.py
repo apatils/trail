@@ -1,3 +1,3 @@
-import pandas
+import codecs
 
-print(help(pandas))
+print(help(codecs))
