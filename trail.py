@@ -1,3 +1,3 @@
 import shutil
 
-print(help(shutil))
+shutil.move("Merged/hello.txt","Locale/Location/hello.txt")
