@@ -1,3 +1,3 @@
-import codecs
+import git
 
-print(help(codecs))
+print(help(git))
