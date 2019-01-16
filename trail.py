@@ -8,4 +8,6 @@ import codecs
 import csv
 import sqlite3
 
+print(help(sessionmaker))
+
 shutil.move("Merged/Hello.txt","Locale/Location/Hello.txt")
