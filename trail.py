@@ -1,3 +1,3 @@
-import os
+from xml.dom import minidom
 
-os.system('sqlplus')
+print('It does work')
